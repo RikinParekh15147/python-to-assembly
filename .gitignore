@@ -1,0 +1,26 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Root temporary binaries from C examples
+ex1
+ex1.exe
+ex2
+ex2.exe
+*.out
+
+# Embedded/AVR build outputs
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.obj
+
+# Rust build artifacts
+example 3 - compiler+interpreter/target/
+example 3 - compiler+interpreter/debug/
