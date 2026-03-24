@@ -4,6 +4,10 @@ This repository contains a set of lecture examples that move from basic compiler
 
 The folders are intentionally independent. Each example demonstrates a specific concept and can be run on its own.
 
+## Lecture PPT
+
+- https://www.canva.com/design/DAHEavyBEdI/ojayNGlOfPZZfRu5SHqQOQ/edit?utm_content=DAHEavyBEdI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Repository Overview
 
 1. `example 1 - compiler design`
