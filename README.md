@@ -6,7 +6,7 @@ The folders are intentionally independent. Each example demonstrates a specific 
 
 ## Lecture PPT
 
-- https://www.canva.com/design/DAHEavyBEdI/ojayNGlOfPZZfRu5SHqQOQ/edit?utm_content=DAHEavyBEdI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- [Canva Link](https://www.canva.com/design/DAHEavyBEdI/ojayNGlOfPZZfRu5SHqQOQ/edit?utm_content=DAHEavyBEdI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Repository Overview
 
